@@ -1,11 +1,11 @@
-<?php namespace oblivious87\LaravelMandrillRequestLocal;
+<?php namespace Doxxon\LaravelMandrillRequest;
 
 /**
  * An L4 package wrapper of Michael Teeuw's Laravel 3 mandrill API wrapper written by Doxxon 
  * I added Local environment support for the SSL connection.
  *
- * @link 		https://github.com/oblivious87/laravel-mandrill
- * @author     	oblivious87 <jstark@gmail.com>
+ * @link 		https://github.com/doxxon/Laravel-Mandrill-Request/
+ * @author     	Doxxon <doxxon.co@gmail.com>
  * @license    	MIT License
  */
 
